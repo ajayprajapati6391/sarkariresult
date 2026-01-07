@@ -9,5 +9,4 @@ It allows users to view exam results in a clean, table-based format, similar to 
 
 - Table layout for displaying exam results
 - Highlights Pass/Fail status
-- Responsive and user-friendly design
 - Includes a clickable main link to the official Sarkari Result website
